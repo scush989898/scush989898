@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://github.com/scush989898">
+  <img height= "165em" align="center" src="https://github-readme-stats.vercel.app/api/?username=scush989898&count_private=true&show_icons=true&theme=dracula" />
+  <img heigth= "165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scush989898&layout=compact&theme=dracula&langs_count=6" />
+</a>
+
 <!--
 **scush989898/scush989898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
