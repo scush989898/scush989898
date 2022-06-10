@@ -1,6 +1,6 @@
 ### Olá 👋👋
 
-<a href="https://github.com/scush989898" style='align-items: flex-start'>
+<a href="https://github.com/scush989898">
   <img height= "165em" align="center" src="https://github-readme-stats.vercel.app/api/?username=scush989898&count_private=true&show_icons=true&theme=dark" />
   <img heigth= "165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scush989898&layout=compact&theme=dark&langs_count=6" />
 </a>
